@@ -37,7 +37,7 @@ Clustering using K-Means and Gaussian Mixture Models augmented by Deep Auto Enco
 
 ## Project 4
 
-Solved 4x4 Grid Environment using Q-Learning Algorithm 
+Solved 4x4 Grid Environment using Q-Learning Algorithm from Scratch
 
 [Code](Project4/main.ipynb)
 
